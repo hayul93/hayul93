@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hayul93)](https://solved.ac/psy785/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=psy785)](https://solved.ac/psy785/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hayul93&show_icons=true&theme=radical)
 
